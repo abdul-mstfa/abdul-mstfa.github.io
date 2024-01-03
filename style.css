@@ -9,7 +9,7 @@ body {
 header {
     background-color: #ffffff;
     padding: 20px 0;
-    text-align: left;
+    text-align: center;
     padding-left: 20px;
 }
 
@@ -41,10 +41,16 @@ hr {
     margin: 0px 0;
 }
 
+main {
+    padding: 100px;
+    max-width: 500px; /* Adjust the value to your desired maximum width */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
 nav ul {
     list-style: none;
     padding: 0;
-    text-align: left;
+    text-align: center;
 }
 
 
